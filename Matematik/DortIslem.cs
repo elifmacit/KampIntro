@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Matematik
 {
+
     class DortIslem
     {
         //Topla (2,3)
