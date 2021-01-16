@@ -13,7 +13,7 @@ namespace Matematik
             int toplam = sayi1 + sayi2 + sayi3; 
             Console.WriteLine("Sonuç : " + toplam);
             //deneme
-           
+           //sdsadasd
         }
 
         public void Carpma(int sayi1 , int sayi2)
