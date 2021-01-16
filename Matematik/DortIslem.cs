@@ -18,8 +18,8 @@ namespace Matematik
 
         public void Carpma(int sayi1 , int sayi2)
         {
-            int Carpma = sayi1 + sayi2;
-            Console.WriteLine("Sonuç : "  Carpim);
+            int Carpma = sayi1 * sayi2;
+            Console.WriteLine("Sonuç : "+  Carpma);
         }
     }
 }
