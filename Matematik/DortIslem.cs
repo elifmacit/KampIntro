@@ -12,7 +12,7 @@ namespace Matematik
         {
             int toplam = sayi1 + sayi2 + sayi3; 
             Console.WriteLine("Sonuç : " + toplam);
-
+            //deneme
            
         }
 
